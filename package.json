@@ -10,8 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@daypicker/react": "^10.0.1",
+    "@tanstack/react-query": "^5.101.0",
+    "@tanstack/react-router": "^1.170.15",
+    "@tanstack/react-start": "^1.168.25",
+    "embla-carousel-react": "^8.6.0",
+    "lucide-react": "^1.17.0",
+    "radix-ui": "^1.5.0",
     "react": "^19.2.6",
-    "react-dom": "^19.2.6"
+    "react-dom": "^19.2.6",
+    "react-resizable-panels": "^4.11.2"
   },
   "devDependencies": {
     "@babel/core": "^7.29.0",
